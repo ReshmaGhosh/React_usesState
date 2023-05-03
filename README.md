@@ -14,6 +14,10 @@ const [state, setState] = useState(initialState);
 1. Counter: when the use click the `+` button, it should increase the value and same logic with the `-` button
 2. Toggle
 
+## Screenshot
+
+![](./screenshots/example.png)
+
 ## Hints
 
 1. `onClick`: A MouseEvent handler function. Fires when the primary button was clicked on the pointing device.
